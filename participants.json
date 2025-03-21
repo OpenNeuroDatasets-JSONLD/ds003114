@@ -40,17 +40,7 @@
     },
     "BIS": {
         "Description": "behaviroal inhibition system",
-        "Units": "scores",
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_56a9137d9dce1",
-                "Label": ""
-            }
-        }
+        "Units": "scores"
     },
     "group": {
         "Description": "group",
@@ -83,42 +73,12 @@
         }
     },
     "BAS-drive": {
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_56a9137d9dce1",
-                "Label": ""
-            }
-        },
         "Description": "There should have been a description here, but there wasn't. :("
     },
     "BAS-fun seeking": {
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_56a9137d9dce1",
-                "Label": ""
-            }
-        },
         "Description": "There should have been a description here, but there wasn't. :("
     },
     "BAS-rewards": {
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_56a9137d9dce1",
-                "Label": ""
-            }
-        },
         "Description": "There should have been a description here, but there wasn't. :("
     },
     "participant_id": {
