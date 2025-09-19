@@ -7,15 +7,16 @@
                 "TermURL": "nb:Age",
                 "Label": ""
             },
-            "Transformation": {
-                "TermURL": "nb:FromInt",
-                "Label": "integer data"
-            },
             "MissingValues": [
                 "",
                 "n/a",
                 " "
-            ]
+            ],
+            "Format": {
+                "TermURL": "nb:FromInt",
+                "Label": "integer data"
+            },
+            "VariableType": "Continuous"
         }
     },
     "PROG": {
@@ -69,7 +70,8 @@
                     "TermURL": "snomed:248153007",
                     "Label": ""
                 }
-            }
+            },
+            "VariableType": "Categorical"
         }
     },
     "BAS-drive": {
@@ -87,7 +89,7 @@
                 "TermURL": "nb:ParticipantID",
                 "Label": ""
             },
-            "Identifies": "participant"
+            "VariableType": "Identifier"
         },
         "Description": "There should have been a description here, but there wasn't. :("
     }
